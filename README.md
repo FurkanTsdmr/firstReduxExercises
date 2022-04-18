@@ -3,9 +3,11 @@
 ![image](https://user-images.githubusercontent.com/66878884/163753133-69543efa-15b7-477a-899d-532f42e4114a.png)
 ![image](https://user-images.githubusercontent.com/66878884/163753246-1abfc1ab-ec83-4196-98ed-6dea10776ea5.png)
 
+I just uploaded the changed files.
 
-//I just uploaded the changed files.
-/*If it is not installed on your computer(REDUX)
+
+/
+*If it is not installed on your computer(REDUX)
     
     npm/yarn add @reduxjs/toolkit react-redux
 
