@@ -5,3 +5,8 @@
 
 
 //I just uploaded the changed files.
+/*If it is not installed on your computer(REDUX)
+    
+    npm/yarn add @reduxjs/toolkit react-redux
+
+*/
